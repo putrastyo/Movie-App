@@ -20,6 +20,7 @@ header input, header button {
 }
 header input {
   width: 300px;
+  max-width: 70%;
   border-radius: 6px 0 0 6px;
 }
 
